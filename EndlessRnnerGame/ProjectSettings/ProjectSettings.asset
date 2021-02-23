@@ -665,10 +665,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: c8186d74-c7ff-4c23-a930-5747eacce512
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: EndlessRnnerGame
+  organizationId: eshaqsafi85
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
